@@ -1,5 +1,7 @@
 <h2>Мониторинг Covid-19 на ESP8266</h2>
 
+<img src="https://raw.githubusercontent.com/pavel-fomychov/dashboard-covid19/main/IMG_20201129_163819_1.jpg" height="300">
+
 <p>Проект устройства для мониторинга за ситуацией с Covid-19 на базе микроконтроллера ESP8266 выполненый в виде настольного виджета.</p>
 
 <h3>Перечень элементов:</h3>
